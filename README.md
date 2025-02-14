@@ -32,5 +32,11 @@ A **Swing & Ink Productions** nasceu da ideia de criar um estúdio de animação
 
 Clone o repositório para sua máquina local:
 
-```bash
 git clone https://github.com/seu-usuario/swing-ink-productions.git
+
+## 📜 Licença
+Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+## 📞 Contato
+Email: swing.ink@exemplo.com
+Website: www.swinginkproductions.com
