@@ -1,4 +1,4 @@
-# Swing & Ink Productions - Projeto da disciplina de Tecnlogias Web (2º semestre | 1ª etapa)
+# Swing & Ink Productions - Projeto da disciplina de Tecnlogias Web (2º semestre e 1ª etapa)
 
 Bem-vindo ao repositório da **Swing & Ink Productions**, uma empresa fictícia inspirada pelo estilo retrô e dinâmico de **Cuphead**. Aqui você vai encontrar projetos incríveis que misturam animação, design e música com aquele toque único de nostalgia.
 
