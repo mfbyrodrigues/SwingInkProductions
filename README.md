@@ -46,11 +46,11 @@ cd swing-ink-productions
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a licença MIT - tudo aqui é altamente fictício.
 
 ## Contato
 
-Email: swing.ink@gmail.com </br>
+Email: swing.ink@exemplo.com </br>
 Website: www.swinginkproductions.com
 
 ## Agradecimentos
