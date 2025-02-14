@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da **Swing & Ink Productions**, uma empresa fictícia inspirada pelo estilo retrô e dinâmico de **Cuphead**. Aqui você vai encontrar projetos incríveis que misturam animação, design e música com aquele toque único de nostalgia.
 
-## Visão geral
+## » Visão geral
 
 A **Swing & Ink Productions** nasceu da ideia de criar um estúdio de animação e música, onde a arte vintage se encontra com a criatividade moderna. Nosso foco é trazer produções divertidas e inovadoras, mantendo a essência do estilo que tanto nos encanta.
 
