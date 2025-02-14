@@ -42,7 +42,7 @@ git clone https://github.com/seu-usuario/swing-ink-productions.git
 cd swing-ink-productions
 ```
 
-- Abra o index.html em seu navegador para visualizar o projeto.
+- Abra o ``index.html`` em seu navegador para visualizar o projeto.
 
 ## Licença
 
@@ -50,7 +50,7 @@ Este projeto é licenciado sob a licença MIT - tudo aqui é altamente fictício
 
 ## Contato
 
-Email: swing.ink@exemplo.com </br>
+Email: swing.ink@gmail.com </br>
 Website: www.swinginkproductions.com
 
 ## Agradecimentos
