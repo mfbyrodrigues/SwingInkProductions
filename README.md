@@ -50,7 +50,7 @@ Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais
 
 ## Contato
 
-Email: swing.ink@gmail.com
+Email: swing.ink@gmail.com </br>
 Website: www.swinginkproductions.com
 
 ## Agradecimentos
