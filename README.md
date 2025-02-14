@@ -57,6 +57,6 @@ Website: www.swinginkproductions.com
 
 Muito obrigado por visitar o repositório da **Swing & Ink Productions**! Seu interesse e apoio são extremamente valiosos para nós. Fique à vontade para explorar, contribuir e compartilhar o projeto com outros!
 
-Se você tem sugestões ou dúvidas, sinta-se à vontade para abrir uma *issue* ou entrar em contato!
+Se você tem sugestões ou dúvidas, sinta-se à vontade para abrir uma ``issue`` ou entrar em contato!
 
 🎉 Agradecemos a todos que ajudaram a tornar este projeto melhor!
