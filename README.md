@@ -16,7 +16,7 @@ A **Swing & Ink Productions** nasceu da ideia de criar um estúdio de animação
 ## Tecnologias usadas
 
 - **HTML5** e **CSS3** para o desenvolvimento web;
-- **Vs Code Studio** para o ambiente de desenvolvimento;
+- **Visual Code Studio** para o ambiente de desenvolvimento;
 - **DevTools** para criação, testes e otimização;
 - **Canva** para design gráfico.
 
