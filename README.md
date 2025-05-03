@@ -8,9 +8,9 @@ A **Swing & Ink Productions** nasceu da ideia de criar um estúdio de animação
 
 ## 🗂️ O que você vai encontrar por aqui
 
-- 📽️ **Animações:** Estilo cartoon inspirado nos anos 30 e 40, com elementos retrô e coloridos.  
-- 🎨 **Design gráfico:** Criação de personagens e cenários com a estética art déco.  
-- 🎶 **Trilha sonora:** Composição de músicas que remetem ao swing e jazz dos anos 30.  
+- 📽️ **Animações:** Estilo cartoon inspirado nos anos 30 e 40, com elementos retrô e coloridos; 
+- 🎨 **Design gráfico:** Criação de personagens e cenários com a estética art déco;
+- 🎶 **Trilha sonora:** Composição de músicas que remetem ao swing e jazz dos anos 30;  
 - 📎 **Desenvolvimento web:** O site da nossa empresa, desenvolvido com um design minimalista, responsivo e intuitivo.
 
 ## 💻 Tecnologias usadas
