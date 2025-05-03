@@ -2,33 +2,33 @@
 
 Bem-vindo ao repositório da **Swing & Ink Productions**, uma empresa fictícia inspirada pelo estilo retrô e dinâmico de **Cuphead**. Aqui você vai encontrar projetos incríveis que misturam animação, design e música com aquele toque único de nostalgia.
 
-## Visão geral
+## 📄 Visão geral
 
 A **Swing & Ink Productions** nasceu da ideia de criar um estúdio de animação e música, onde a arte vintage se encontra com a criatividade moderna. Nosso foco é trazer produções divertidas e inovadoras, mantendo a essência do estilo que tanto nos encanta.
 
-## O que você vai encontrar por aqui:
+## 🗂️ O que você vai encontrar por aqui
 
-- **Animações:** Estilo cartoon inspirado nos anos 30 e 40, com elementos retrô e coloridos.
-- **Design Gráfico:** Criação de personagens e cenários com a estética art déco.
-- **Trilha Sonora:** Composição de músicas que remetem ao swing e jazz dos anos 30.
-- **Desenvolvimento Web:** O site da nossa empresa, desenvolvido com um design minimalista, responsivo e intuitivo.
+- 🎬 **Animações:** Estilo cartoon inspirado nos anos 30 e 40, com elementos retrô e coloridos.  
+- 🎨 **Design Gráfico:** Criação de personagens e cenários com a estética art déco.  
+- 🎶 **Trilha Sonora:** Composição de músicas que remetem ao swing e jazz dos anos 30.  
+- 💻 **Desenvolvimento Web:** O site da nossa empresa, desenvolvido com um design minimalista, responsivo e intuitivo.
 
-## Tecnologias usadas
+## 💻 Tecnologias usadas
 
-- **HTML5** e **CSS3** para o desenvolvimento web;
-- **Visual Code Studio** para o ambiente de desenvolvimento;
-- **DevTools** para criação, testes e otimização;
-- **Canva** para design gráfico.
+- **HTML5** e **CSS3** para o desenvolvimento web  
+- **Visual Studio Code** para o ambiente de desenvolvimento  
+- **DevTools** para criação, testes e otimização  
+- **Canva** para design gráfico
 
-## Como contribuir
+## 🤝 Como contribuir
 
-1. Faça um fork deste repositório;
-2. Crie uma branch para sua feature (`git checkout -b feature/alguma-feature`);
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`);
-4. Envie para o repositório remoto (`git push origin feature/alguma-feature`);
-5. Crie um pull request.
+1. Faça um fork deste repositório  
+2. Crie uma branch para sua feature (`git checkout -b feature/alguma-feature`)  
+3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)  
+4. Envie para o repositório remoto (`git push origin feature/alguma-feature`)  
+5. Crie um pull request
 
-## Instalação
+## ⚙️ Instalação
 
 - Clone o repositório para sua máquina local:
 
